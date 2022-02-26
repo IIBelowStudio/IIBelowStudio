@@ -1,4 +1,7 @@
-### Hi there 👋
+# Go to [https://github.com/11BelowStudio](https://github.com/11BelowStudio) instead
+
+This account just exists due to reverse domain name notation
+not liking my actual domain name.
 
 <!--
 **IIBelowStudio/IIBelowStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
